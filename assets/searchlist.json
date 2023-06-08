@@ -1,0 +1,1155 @@
+[
+  {
+    "url": "https://codewithandrea.com/tips/dart-2.17-super-arguments/",
+    "tags": ["dart", "flutter"],
+    "contentType": "tip",
+    "title": "How to Use Super Arguments in Dart 2.17",
+    "date": "May 7, 2022"
+  },
+  {
+    "contentType": "tip",
+    "url": "https://codewithandrea.com/tips/flutter-test-expect-tear-off/",
+    "date": "May 6, 2022",
+    "tags": ["dart", "flutter", "testing"],
+    "title": "How to test functions that throw in Flutter"
+  },
+  {
+    "url": "https://codewithandrea.com/articles/flutter-presentation-layer/",
+    "contentType": "article",
+    "date": "May 5, 2022",
+    "tags": [
+      "dart",
+      "flutter",
+      "state-management",
+      "app-architecture",
+      "riverpod"
+    ],
+    "title": "Flutter App Architecture: The Presentation Layer"
+  },
+  {
+    "url": "https://codewithandrea.com/tips/dart-map-update-method/",
+    "tags": ["dart", "flutter"],
+    "title": "How to update a Map of key-value pairs in Dart",
+    "date": "Apr 20, 2022",
+    "contentType": "tip"
+  },
+  {
+    "url": "https://codewithandrea.com/tips/async-value-guard-try-catch/",
+    "contentType": "tip",
+    "date": "Apr 19, 2022",
+    "title": "Use AsyncValue.guard rather than try/catch inside your StateNotifier subclasses",
+    "tags": ["dart", "flutter", "riverpod"]
+  },
+  {
+    "date": "Apr 6, 2022",
+    "contentType": "article",
+    "url": "https://codewithandrea.com/articles/flutter-test-coverage/",
+    "tags": ["dart", "flutter", "testing"],
+    "title": "How to Generate and Analyze a Flutter Test Coverage Report in VSCode"
+  },
+  {
+    "contentType": "article",
+    "tags": ["dart", "flutter", "navigation"],
+    "date": "Mar 29, 2022",
+    "url": "https://codewithandrea.com/articles/flutter-navigation-gorouter-go-vs-push/",
+    "title": "Flutter Navigation with GoRouter: Go vs Push"
+  },
+  {
+    "title": "Flutter Project Structure: Feature-first or Layer-first?",
+    "date": "Mar 23, 2022",
+    "tags": ["dart", "flutter", "app-architecture"],
+    "contentType": "article",
+    "url": "https://codewithandrea.com/articles/flutter-project-structure/"
+  },
+  {
+    "date": "Mar 17, 2022",
+    "tags": ["dart", "flutter", "riverpod", "app-architecture"],
+    "contentType": "article",
+    "title": "Flutter App Architecture with Riverpod: An Introduction",
+    "url": "https://codewithandrea.com/articles/flutter-app-architecture-riverpod-introduction/"
+  },
+  {
+    "contentType": "article",
+    "title": "Flutter Riverpod Tip: Use AsyncValue rather than FutureBuilder or StreamBuilder",
+    "tags": ["dart", "flutter", "riverpod", "state-management"],
+    "url": "https://codewithandrea.com/articles/flutter-use-async-value-not-future-stream-builder/",
+    "date": "Mar 9, 2022"
+  },
+  {
+    "contentType": "article",
+    "tags": ["dart", "flutter", "vscode", "productivity"],
+    "date": "Feb 24, 2022",
+    "url": "https://codewithandrea.com/articles/vscode-shortcuts-extensions-settings-flutter-development/",
+    "title": "VSCode Shortcuts, Extensions & Settings for Flutter Development"
+  },
+  {
+    "date": "Feb 9, 2022",
+    "url": "https://codewithandrea.com/articles/flutter-app-architecture-domain-model/",
+    "title": "Flutter App Architecture: The Domain Model",
+    "tags": ["dart", "flutter", "app-architecture"],
+    "contentType": "article"
+  },
+  {
+    "date": "Jan 27, 2022",
+    "tags": ["dart", "flutter", "localization"],
+    "contentType": "article",
+    "url": "https://codewithandrea.com/articles/flutter-localization-build-context-extension/",
+    "title": "Simplified Flutter Localization using a BuildContext extension"
+  },
+  {
+    "title": "How to replace SizedBox with compile-time constants for better performance",
+    "date": "Jan 24, 2022",
+    "contentType": "tip",
+    "url": "https://codewithandrea.com/tips/const-sized-box-gap/",
+    "tags": ["dart", "flutter", "layouts"]
+  },
+  {
+    "title": "Flutter Flavors Setup with multiple Firebase Environments using FlutterFire and Very Good CLI",
+    "date": "Jan 22, 2022",
+    "contentType": "article",
+    "tags": ["dart", "flutter", "firebase"],
+    "url": "https://codewithandrea.com/articles/flutter-flavors-for-firebase-apps/"
+  },
+  {
+    "title": "How to add Firebase to a Flutter app with FlutterFire CLI",
+    "date": "Jan 22, 2022",
+    "url": "https://codewithandrea.com/articles/flutter-firebase-flutterfire-cli/",
+    "contentType": "article",
+    "tags": ["dart", "flutter", "firebase"]
+  },
+  {
+    "title": "Flutter App Architecture: The Repository Pattern",
+    "url": "https://codewithandrea.com/articles/flutter-repository-pattern/",
+    "contentType": "article",
+    "tags": ["dart", "flutter", "app-architecture"],
+    "date": "Jan 13, 2022"
+  },
+  {
+    "tags": ["business", "content-creation", "meta"],
+    "title": "My 2021 in Review as a Flutter Content Creator",
+    "url": "https://codewithandrea.com/meta/my-2021-in-review/",
+    "contentType": "meta",
+    "date": "Jan 1, 2022"
+  },
+  {
+    "contentType": "article",
+    "date": "Dec 16, 2021",
+    "tags": ["dart", "flutter", "state-management", "riverpod"],
+    "title": "How to handle loading and error states with StateNotifier & AsyncValue in Flutter",
+    "url": "https://codewithandrea.com/articles/loading-error-states-state-notifier-async-value/"
+  },
+  {
+    "url": "https://codewithandrea.com/tips/speed-up-cloud-firestore-xcode-builds/",
+    "tags": ["flutter", "firebase", "devops"],
+    "date": "Dec 14, 2021",
+    "title": "How to speed-up Cloud Firestore Xcode builds on your Flutter apps",
+    "contentType": "tip"
+  },
+  {
+    "date": "Dec 9, 2021",
+    "title": "How to Parse Large JSON Data with Isolates in Dart 2.15",
+    "contentType": "article",
+    "url": "https://codewithandrea.com/articles/parse-large-json-dart-isolates/",
+    "tags": ["dart", "flutter", "json", "networking"]
+  },
+  {
+    "date": "Nov 26, 2021",
+    "tags": ["dart", "flutter", "layouts", "state-management", "riverpod"],
+    "url": "https://codewithandrea.com/articles/flutter-responsive-layouts-split-view-drawer-navigation/",
+    "title": "Responsive layouts in Flutter: Split View and Drawer Navigation",
+    "contentType": "article"
+  },
+  {
+    "url": "https://codewithandrea.com/articles/flutter-layout-grid-content-sized-items/",
+    "contentType": "article",
+    "tags": ["dart", "flutter", "layouts"],
+    "date": "Nov 24, 2021",
+    "title": "How to create a Flutter GridView with content-sized items"
+  },
+  {
+    "date": "Nov 23, 2021",
+    "url": "https://codewithandrea.com/videos/flutter-web-html-css-js-performance-comparison/",
+    "contentType": "video",
+    "tags": ["dart", "flutter", "flutter-web"],
+    "title": "Flutter Web vs HTML, CSS & JS: Performance Comparison"
+  },
+  {
+    "url": "https://codewithandrea.com/articles/flutter-state-management-riverpod/",
+    "title": "Flutter State Management with Riverpod: The Essential Guide",
+    "contentType": "article",
+    "tags": [
+      "dart",
+      "flutter",
+      "state-management",
+      "app-architecture",
+      "riverpod"
+    ],
+    "date": "Nov 18, 2021"
+  },
+  {
+    "tags": ["dart", "flutter", "firebase", "cloud-functions"],
+    "title": "Flutter Tutorial: How to use the Firebase Local Emulator with Cloud Functions",
+    "url": "https://codewithandrea.com/articles/flutter-tutorial-firebase-cloud-functions/",
+    "date": "Nov 10, 2021",
+    "contentType": "article"
+  },
+  {
+    "url": "https://codewithandrea.com/articles/firebase-cloud-functions/",
+    "title": "Firebase Cloud Functions: Introduction and Project Setup",
+    "contentType": "article",
+    "date": "Nov 2, 2021",
+    "tags": ["firebase", "cloud-functions"]
+  },
+  {
+    "tags": ["dart", "flutter", "navigation"],
+    "url": "https://codewithandrea.com/articles/flutter-tab-bar-navigation/",
+    "contentType": "article",
+    "title": "Flutter TabBar Tutorial: How to Navigate Programmatically Between Tabs",
+    "date": "Oct 20, 2021"
+  },
+  {
+    "date": "Oct 18, 2021",
+    "url": "https://codewithandrea.com/articles/flutter-text-field-form-validation/",
+    "contentType": "article",
+    "title": "Flutter TextField Validation: How to work with TextEditingController, Form, and TextFormField",
+    "tags": ["dart", "flutter", "input-validation"]
+  },
+  {
+    "url": "https://codewithandrea.com/articles/async-value-widget-riverpod/",
+    "contentType": "article",
+    "date": "Oct 12, 2021",
+    "title": "AsyncValueWidget: a reusable Flutter widget to work with AsyncValue (using Riverpod)",
+    "tags": ["dart", "flutter", "state-management", "riverpod"]
+  },
+  {
+    "contentType": "meta",
+    "url": "https://codewithandrea.com/meta/hiring-web-dev-code-with-andrea/",
+    "date": "Oct 5, 2021",
+    "title": "I'm hiring a Web Developer to build Code With Andrea v2.0!",
+    "tags": ["meta"]
+  },
+  {
+    "title": "How to build a Chat Messaging UI in Flutter",
+    "url": "https://codewithandrea.com/articles/chat-messaging-ui-flutter/",
+    "tags": ["dart", "flutter", "layouts"],
+    "contentType": "article",
+    "date": "Sep 22, 2021"
+  },
+  {
+    "title": "How to style an ElevatedButton in Flutter",
+    "url": "https://codewithandrea.com/tips/elevated-button-style-flutter/",
+    "tags": ["dart", "flutter"],
+    "date": "Sep 20, 2021",
+    "contentType": "tip"
+  },
+  {
+    "date": "Sep 20, 2021",
+    "title": "How to quickly generate some fake data when building Flutter UIs",
+    "tags": ["dart", "flutter"],
+    "url": "https://codewithandrea.com/tips/faker-package/",
+    "contentType": "tip"
+  },
+  {
+    "date": "Sep 20, 2021",
+    "contentType": "video",
+    "tags": ["flutter", "firebase", "authentication"],
+    "url": "https://codewithandrea.com/videos/apple-sign-in-flutter-firebase/",
+    "title": "Apple Sign In with Flutter & Firebase Authentication"
+  },
+  {
+    "contentType": "tip",
+    "date": "Sep 20, 2021",
+    "url": "https://codewithandrea.com/tips/rounded-border-widget-flutter/",
+    "tags": ["dart", "flutter"],
+    "title": "How to add Rounded Borders to a Widget in Flutter"
+  },
+  {
+    "url": "https://codewithandrea.com/meta/productivity-todo-list/",
+    "contentType": "meta",
+    "date": "Sep 13, 2021",
+    "title": "Boring but Effective Productivity Tips about TODO Lists and Setting Goals",
+    "tags": ["productivity", "meta"]
+  },
+  {
+    "url": "https://codewithandrea.com/videos/flutter-state-management-basics/",
+    "date": "Sep 7, 2021",
+    "tags": ["dart", "flutter", "state-management"],
+    "contentType": "video",
+    "title": "Flutter State Management Basics and Useful Resources"
+  },
+  {
+    "contentType": "video",
+    "date": "Aug 31, 2021",
+    "title": "Starter Architecture for Flutter & Firebase Apps using Riverpod",
+    "tags": [
+      "flutter",
+      "dart",
+      "firebase",
+      "app-architecture",
+      "riverpod",
+      "design-patterns"
+    ],
+    "url": "https://codewithandrea.com/videos/starter-architecture-flutter-firebase/"
+  },
+  {
+    "contentType": "article",
+    "url": "https://codewithandrea.com/articles/flutter-animation-controller-animated-builder/",
+    "tags": ["dart", "flutter", "animations"],
+    "title": "Flutter: Animated Task Completion Ring with AnimationController and AnimatedBuilder",
+    "date": "Aug 28, 2021"
+  },
+  {
+    "date": "Aug 23, 2021",
+    "contentType": "article",
+    "tags": ["dart", "flutter", "animations"],
+    "title": "Flutter: How to Draw a Task Completion Ring with CustomPainter",
+    "url": "https://codewithandrea.com/articles/flutter-drawing-with-custom-painter/"
+  },
+  {
+    "date": "Aug 20, 2021",
+    "title": "Migrating a Flutter & Firebase app to Null Safety: A Case Study",
+    "tags": ["dart", "flutter", "null-safety"],
+    "contentType": "article",
+    "url": "https://codewithandrea.com/articles/migrating-flutter-firebase-app-null-safety/"
+  },
+  {
+    "url": "https://codewithandrea.com/articles/parse-json-dart/",
+    "date": "Aug 19, 2021",
+    "tags": ["dart", "flutter", "networking", "json"],
+    "title": "How to Parse JSON in Dart/Flutter: The Essential Guide",
+    "contentType": "article"
+  },
+  {
+    "url": "https://codewithandrea.com/articles/flutter-timer-vs-ticker/",
+    "title": "Flutter Timer vs Ticker: A Case Study",
+    "date": "Aug 19, 2021",
+    "tags": ["dart", "flutter", "animations"],
+    "contentType": "article"
+  },
+  {
+    "contentType": "article",
+    "date": "Aug 16, 2021",
+    "tags": ["dart", "flutter", "json", "code-generation", "freezed"],
+    "url": "https://codewithandrea.com/articles/parse-json-dart-codegen-freezed/",
+    "title": "How to Parse JSON in Dart/Flutter with Code Generation using Freezed"
+  },
+  {
+    "url": "https://codewithandrea.com/meta/flutter-animations-course-retro/",
+    "tags": ["content-creation", "business", "meta"],
+    "title": "Flutter Animations Course: Retrospective and Lessons Learned from my $13,371 launch",
+    "contentType": "meta",
+    "date": "Aug 13, 2021"
+  },
+  {
+    "tags": ["dart", "flutter", "state-management"],
+    "url": "https://codewithandrea.com/articles/side-effects-flutter/",
+    "title": "Side Effects in Flutter: What they are and how to avoid them",
+    "date": "Aug 4, 2021",
+    "contentType": "article"
+  },
+  {
+    "contentType": "article",
+    "url": "https://codewithandrea.com/articles/shake-text-effect-flutter/",
+    "date": "Jul 28, 2021",
+    "tags": ["dart", "flutter", "animations"],
+    "title": "How to implement a shake text effect in Flutter"
+  },
+  {
+    "date": "Jul 16, 2021",
+    "url": "https://codewithandrea.com/videos/learn-flutter-animations/",
+    "title": "Learn Flutter Animations by Example + Free Gallery App on GitHub",
+    "contentType": "video",
+    "tags": ["dart", "flutter", "animations"]
+  },
+  {
+    "tags": ["flutter", "career", "productivity"],
+    "date": "Jun 28, 2021",
+    "title": "How to build any kind of app in Flutter (and overcome Tutorial Hell)",
+    "contentType": "video",
+    "url": "https://codewithandrea.com/videos/how-to-build-any-app-flutter/"
+  },
+  {
+    "contentType": "video",
+    "url": "https://codewithandrea.com/videos/dart-null-safety-ultimate-guide-non-nullable-types/",
+    "date": "Jun 6, 2021",
+    "tags": ["dart", "null-safety"],
+    "title": "Dart Null Safety: The Ultimate Guide to Non-Nullable Types"
+  },
+  {
+    "url": "https://codewithandrea.com/videos/colors-numbers-game-flutter-implicit-animations/",
+    "date": "May 28, 2021",
+    "tags": ["dart", "flutter", "animations"],
+    "contentType": "video",
+    "title": "Colors / Numbers Game with Flutter Implicit Animations"
+  },
+  {
+    "title": "Flutter: Why do TweenAnimationBuilder and AnimatedBuilder have a child argument?",
+    "date": "May 16, 2021",
+    "tags": ["dart", "flutter", "animations"],
+    "url": "https://codewithandrea.com/articles/flutter-animated-builder-child-widget-argument/",
+    "contentType": "article"
+  },
+  {
+    "title": "How to reduce AnimationController boilerplate code: Flutter Hooks vs extending the State class",
+    "url": "https://codewithandrea.com/videos/reduce-animation-controller-boilerplate-flutter-hooks/",
+    "contentType": "video",
+    "tags": ["dart", "flutter", "animations"],
+    "date": "May 13, 2021"
+  },
+  {
+    "date": "May 10, 2021",
+    "title": "HSL Colors Explained: What they are and when to use them in Dart/Flutter",
+    "contentType": "article",
+    "tags": ["dart", "flutter"],
+    "url": "https://codewithandrea.com/articles/hsl-colors-explained-flutter/"
+  },
+  {
+    "url": "https://codewithandrea.com/videos/flutter-animations-page-flip-widget-part2/",
+    "title": "Flutter Animations: Interactive Page Flip Widget [Part 2]",
+    "date": "Mar 8, 2021",
+    "tags": ["dart", "flutter", "animations"],
+    "contentType": "video"
+  },
+  {
+    "date": "Mar 3, 2021",
+    "tags": ["dart", "flutter", "animations"],
+    "contentType": "video",
+    "title": "Flutter Animations: Interactive Page Flip Widget",
+    "url": "https://codewithandrea.com/videos/flutter-animations-page-flip-widget-part1/"
+  },
+  {
+    "contentType": "tip",
+    "url": "https://codewithandrea.com/tips/disable-widget-splash-effect-flutter/",
+    "tags": ["flutter", "dart"],
+    "title": "How to disable the default Widget splash effect in Flutter",
+    "date": "Feb 19, 2021"
+  },
+  {
+    "title": "Flutter State Management: Going from setState to Freezed & StateNotifier with Provider",
+    "date": "Feb 1, 2021",
+    "url": "https://codewithandrea.com/videos/flutter-state-management-setstate-freezed-state-notifier-provider/",
+    "contentType": "video",
+    "tags": [
+      "dart",
+      "flutter",
+      "state-management",
+      "app-architecture",
+      "provider",
+      "freezed"
+    ]
+  },
+  {
+    "contentType": "tip",
+    "title": "How to speed up code generation with build_runner in Dart & Flutter",
+    "date": "Jan 22, 2021",
+    "url": "https://codewithandrea.com/tips/speed-up-code-generation-build-runner-dart-flutter/",
+    "tags": ["flutter", "dart", "code-generation", "freezed"]
+  },
+  {
+    "tags": ["flutter", "react-native", "dart"],
+    "url": "https://codewithandrea.com/articles/flutter-vs-react-native/",
+    "date": "Jan 13, 2021",
+    "title": "Flutter vs React Native - Which is the Best Choice for Your Next App?",
+    "contentType": "article"
+  },
+  {
+    "tags": ["business", "content-creation", "meta"],
+    "date": "Jan 1, 2021",
+    "title": "My 2020 as a Content Creator: Udemy, Teachable, and YouTube Revenue and Income Report",
+    "contentType": "meta",
+    "url": "https://codewithandrea.com/meta/content-creator-udemy-teachable-youtube-2020-income-report/"
+  },
+  {
+    "date": "Dec 14, 2020",
+    "contentType": "video",
+    "tags": ["dart", "flutter"],
+    "url": "https://codewithandrea.com/videos/flutter-example-apps-github/",
+    "title": "My 2020 Christmas Gift: Free Flutter Example Apps on GitHub"
+  },
+  {
+    "title": "Flutter Bottom Navigation Bar with Multiple Navigators: A Case Study",
+    "url": "https://codewithandrea.com/articles/multiple-navigators-bottom-navigation-bar/",
+    "date": "Dec 5, 2020",
+    "contentType": "article",
+    "tags": ["flutter", "dart", "navigation"]
+  },
+  {
+    "contentType": "article",
+    "tags": ["android", "flutter"],
+    "title": "'keytool' is not recognized as an internal or external command: How to fix this on Windows and macOS",
+    "url": "https://codewithandrea.com/articles/keytool-command-not-found-how-to-fix-windows-macos/",
+    "date": "Nov 29, 2020"
+  },
+  {
+    "date": "Nov 16, 2020",
+    "title": "Top 16 Dart Tips and Tricks Every Flutter Developer Should Know",
+    "contentType": "video",
+    "url": "https://codewithandrea.com/videos/top-dart-tips-and-tricks-for-flutter-devs/",
+    "tags": ["dart", "flutter"]
+  },
+  {
+    "url": "https://codewithandrea.com/meta/content-creation-blueprint/",
+    "title": "My Content Creation Blueprint for Coding Tutorials & Courses",
+    "tags": ["business", "content-creation", "meta"],
+    "date": "Nov 7, 2020",
+    "contentType": "meta"
+  },
+  {
+    "tags": ["dart"],
+    "url": "https://codewithandrea.com/videos/dart-beginners-course-08-null-safety/",
+    "date": "Oct 26, 2020",
+    "title": "Dart Beginners Course - Tutorial #08: Null Safety",
+    "contentType": "video"
+  },
+  {
+    "tags": ["dart"],
+    "date": "Oct 19, 2020",
+    "contentType": "video",
+    "url": "https://codewithandrea.com/videos/dart-beginners-course-07-data-processing/",
+    "title": "Dart Beginners Course - Tutorial #07: Data Processing in Dart"
+  },
+  {
+    "title": "Dart Beginners Course - Tutorial #06: Collections",
+    "contentType": "video",
+    "url": "https://codewithandrea.com/videos/dart-beginners-course-06-collections/",
+    "tags": ["dart"],
+    "date": "Oct 12, 2020"
+  },
+  {
+    "url": "https://codewithandrea.com/videos/dart-beginners-course-05-command-line-app/",
+    "date": "Oct 5, 2020",
+    "title": "Dart Beginners Course - Tutorial #05: Build a Command Line App",
+    "contentType": "video",
+    "tags": ["dart"]
+  },
+  {
+    "date": "Sep 28, 2020",
+    "title": "Dart Beginners Course - Tutorial #04: Control Flow",
+    "tags": ["dart"],
+    "url": "https://codewithandrea.com/videos/dart-beginners-course-04-control-flow/",
+    "contentType": "video"
+  },
+  {
+    "title": "Dart Beginners Course - Tutorial #03: Dart Type System",
+    "date": "Sep 21, 2020",
+    "contentType": "video",
+    "url": "https://codewithandrea.com/videos/dart-beginners-course-03-dart-type-system/",
+    "tags": ["dart"]
+  },
+  {
+    "contentType": "video",
+    "title": "Dart Beginners Course - Tutorial #02: Dart Basics",
+    "date": "Sep 16, 2020",
+    "tags": ["dart"],
+    "url": "https://codewithandrea.com/videos/dart-beginners-course-02-dart-basics/"
+  },
+  {
+    "date": "Sep 15, 2020",
+    "title": "Dart Beginners Course - Tutorial #01: Introduction",
+    "contentType": "video",
+    "tags": ["dart"],
+    "url": "https://codewithandrea.com/videos/dart-beginners-course-01-introduction/"
+  },
+  {
+    "title": "The Complete Dart Guide for Beginners And Beyond: Course Launch",
+    "date": "Sep 14, 2020",
+    "contentType": "video",
+    "tags": ["dart"],
+    "url": "https://codewithandrea.com/videos/complete-dart-course-launch/"
+  },
+  {
+    "url": "https://codewithandrea.com/tips/dart-flutter-easy-wins-36-42/",
+    "title": "Dart & Flutter Easy Wins 36-42",
+    "contentType": "tip",
+    "tags": ["flutter", "dart"],
+    "date": "Sep 13, 2020"
+  },
+  {
+    "date": "Aug 30, 2020",
+    "url": "https://codewithandrea.com/tips/dart-flutter-easy-wins-29-35/",
+    "contentType": "tip",
+    "tags": ["flutter", "dart"],
+    "title": "Dart & Flutter Easy Wins 29-35"
+  },
+  {
+    "date": "Aug 23, 2020",
+    "title": "Dart & Flutter Easy Wins 22-28",
+    "contentType": "tip",
+    "url": "https://codewithandrea.com/tips/dart-flutter-easy-wins-22-28/",
+    "tags": ["flutter", "dart"]
+  },
+  {
+    "tags": ["flutter", "dart"],
+    "title": "Dart & Flutter Easy Wins 15-21",
+    "date": "Aug 16, 2020",
+    "url": "https://codewithandrea.com/tips/dart-flutter-easy-wins-15-21/",
+    "contentType": "tip"
+  },
+  {
+    "contentType": "tip",
+    "title": "Dart & Flutter Easy Wins 8-14",
+    "date": "Aug 13, 2020",
+    "tags": ["flutter", "dart"],
+    "url": "https://codewithandrea.com/tips/dart-flutter-easy-wins-8-14/"
+  },
+  {
+    "date": "Aug 9, 2020",
+    "contentType": "tip",
+    "tags": ["flutter", "dart"],
+    "url": "https://codewithandrea.com/tips/dart-flutter-easy-wins-1-7/",
+    "title": "Dart & Flutter Easy Wins 1-7"
+  },
+  {
+    "title": "Yay! Implicit Downcasts are no longer allowed in Dart 2.9",
+    "url": "https://codewithandrea.com/articles/implicit-downcast-no-longer-allowed/",
+    "date": "Jun 22, 2020",
+    "contentType": "article",
+    "tags": ["dart"]
+  },
+  {
+    "contentType": "video",
+    "tags": ["career", "productivity"],
+    "date": "Jun 15, 2020",
+    "url": "https://codewithandrea.com/videos/top-tips-software-engineers/",
+    "title": "23 Top Tips to Become a Better Software Engineer"
+  },
+  {
+    "title": "Flutter Tutorial for Beginners: Layout Basics",
+    "contentType": "video",
+    "tags": ["flutter", "dart"],
+    "date": "Jun 10, 2020",
+    "url": "https://codewithandrea.com/videos/flutter-for-beginners-layout-basics/"
+  },
+  {
+    "contentType": "video",
+    "tags": ["flutter", "dart"],
+    "url": "https://codewithandrea.com/videos/flutter-for-beginners-introduction/",
+    "title": "Flutter Tutorial for Beginners: Introduction",
+    "date": "Jun 8, 2020"
+  },
+  {
+    "tags": ["flutter", "dart"],
+    "url": "https://codewithandrea.com/videos/how-to-create-dart-packages-flutter-apps/",
+    "title": "How to Create Dart Packages for Your Flutter Apps",
+    "date": "Jun 1, 2020",
+    "contentType": "video"
+  },
+  {
+    "url": "https://codewithandrea.com/videos/top-8-tips-for-flutter-web-firebase/",
+    "title": "Top 8 Pro Tips for Flutter Web Apps using Firebase",
+    "contentType": "video",
+    "date": "May 25, 2020",
+    "tags": ["flutter", "flutter-web", "dart", "firebase"]
+  },
+  {
+    "date": "May 18, 2020",
+    "tags": ["flutter", "flutter-web", "cloud-functions", "firebase"],
+    "title": "Going Full Stack with Flutter Web & Cloud Functions: A Case Study",
+    "contentType": "video",
+    "url": "https://codewithandrea.com/videos/flutter-web-cloud-functions-case-study/"
+  },
+  {
+    "url": "https://codewithandrea.com/videos/rxdart-by-example-github-search/",
+    "date": "May 11, 2020",
+    "title": "RxDart by example: querying the GitHub Search API with switchMap & debounce",
+    "tags": ["flutter", "dart", "rxdart", "search"],
+    "contentType": "video"
+  },
+  {
+    "url": "https://codewithandrea.com/videos/rx-dart-by-example-combine-latest/",
+    "title": "RxDart by example: combineLatest and data modeling with Firestore",
+    "contentType": "video",
+    "date": "May 4, 2020",
+    "tags": ["flutter", "dart", "rxdart", "firestore", "firebase"]
+  },
+  {
+    "url": "https://codewithandrea.com/tips/flutter-firebase-web-config-gitignore/",
+    "title": "Hide your Firebase config with .gitignore in Flutter web projects",
+    "contentType": "tip",
+    "date": "Apr 13, 2020",
+    "tags": ["flutter", "dart", "firebase", "flutter-web", "git"]
+  },
+  {
+    "date": "Apr 9, 2020",
+    "contentType": "video",
+    "tags": ["flutter", "dart", "rest", "http"],
+    "url": "https://codewithandrea.com/videos/complete-flutter-rest-api-course/",
+    "title": "Flutter REST API Crash Course - Full Course Now Available"
+  },
+  {
+    "tags": ["flutter", "dart", "rest", "http"],
+    "contentType": "video",
+    "title": "Flutter REST API Crash Course - Part 2: Building an API Service with the Dart http package",
+    "date": "Mar 16, 2020",
+    "url": "https://codewithandrea.com/videos/flutter-rest-api-crash-course-part2/"
+  },
+  {
+    "url": "https://codewithandrea.com/videos/flutter-rest-api-crash-course-part1/",
+    "date": "Mar 9, 2020",
+    "title": "Flutter REST API Crash Course - Part 1: Intro to REST, the nCoV 2019 REST API & REST Client",
+    "contentType": "video",
+    "tags": ["flutter", "dart", "rest", "http"]
+  },
+  {
+    "tags": ["flutter", "dart", "rest", "http"],
+    "title": "Flutter REST API Crash Course Launch: Build a Coronavirus Tracking App",
+    "date": "Mar 2, 2020",
+    "contentType": "video",
+    "url": "https://codewithandrea.com/videos/flutter-rest-api-crash-course-launch/"
+  },
+  {
+    "title": "Take Home Project for Flutter Job Interview - Firebase version",
+    "contentType": "video",
+    "url": "https://codewithandrea.com/videos/take-home-job-interview-flutter-firebase/",
+    "date": "Feb 17, 2020",
+    "tags": ["flutter", "dart", "firebase", "interview", "career"]
+  },
+  {
+    "tags": ["flutter", "dart", "canvas", "painting"],
+    "url": "https://codewithandrea.com/videos/flutter-custom-painting-do-not-fear-canvas/",
+    "date": "Jan 27, 2020",
+    "contentType": "video",
+    "title": "Flutter Custom Painting: Do Not Fear The Canvas"
+  },
+  {
+    "title": "Easily move the focus between TextFormFields with FocusScopeNode",
+    "tags": ["flutter", "dart"],
+    "contentType": "tip",
+    "date": "Jan 22, 2020",
+    "url": "https://codewithandrea.com/tips/easily-move-focus-scope-node/"
+  },
+  {
+    "tags": ["business", "content-creation", "meta"],
+    "url": "https://codewithandrea.com/meta/2019-retrospective-udemy-youtube/",
+    "date": "Jan 13, 2020",
+    "title": "2019 in Retrospective: Udemy and YouTube Income Report",
+    "contentType": "meta"
+  },
+  {
+    "title": "Using underscores for unused builder arguments in Dart",
+    "url": "https://codewithandrea.com/tips/using-underscores-builder-arguments/",
+    "contentType": "tip",
+    "date": "Jan 12, 2020",
+    "tags": ["flutter", "dart", "design-patterns"]
+  },
+  {
+    "contentType": "tip",
+    "title": "Adding top and bottom separators with ListView.separated",
+    "date": "Jan 12, 2020",
+    "tags": ["flutter", "dart", "layouts"],
+    "url": "https://codewithandrea.com/tips/list-view-separated-top-bottom/"
+  },
+  {
+    "contentType": "meta",
+    "date": "Jan 6, 2020",
+    "title": "Launching CodeWithAndrea.com",
+    "tags": ["flutter", "dart", "meta"],
+    "url": "https://codewithandrea.com/meta/launching-code-with-andrea/"
+  },
+  {
+    "url": "https://codewithandrea.com/videos/whats-great-about-flutter/",
+    "date": "Dec 16, 2019",
+    "title": "What's great about Flutter?",
+    "contentType": "video",
+    "tags": ["flutter", "dart"]
+  },
+  {
+    "contentType": "video",
+    "url": "https://codewithandrea.com/videos/dart-extensions-full-introduction/",
+    "tags": ["flutter", "dart", "extensions"],
+    "date": "Dec 2, 2019",
+    "title": "Dart Extensions: Full Introduction and Practical Use Cases"
+  },
+  {
+    "url": "https://codewithandrea.com/videos/advanced-provider-tutorial-part3/",
+    "title": "Advanced Provider Tutorial - Part 3: Better APIs, Navigation, Widget Rebuilds",
+    "date": "Nov 25, 2019",
+    "tags": ["flutter", "dart", "provider"],
+    "contentType": "video"
+  },
+  {
+    "url": "https://codewithandrea.com/videos/advanced-provider-tutorial-part2/",
+    "tags": ["flutter", "dart", "provider"],
+    "date": "Nov 4, 2019",
+    "title": "Advanced Provider Tutorial - Part 2: MultiProvider, Multiple Services & Stream Dependencies",
+    "contentType": "video"
+  },
+  {
+    "tags": ["flutter", "dart", "testing", "CI"],
+    "url": "https://codewithandrea.com/articles/integration-tests-codemagic/",
+    "contentType": "article",
+    "date": "Oct 30, 2019",
+    "title": "Case Study: Automating UI/Integration Tests with Flutter Driver and Codemagic"
+  },
+  {
+    "url": "https://codewithandrea.com/videos/advanced-provider-tutorial-part1/",
+    "tags": ["flutter", "dart", "provider"],
+    "contentType": "video",
+    "date": "Oct 28, 2019",
+    "title": "Advanced Provider Tutorial - Part 1: Project Setup & Authentication Flow"
+  },
+  {
+    "contentType": "video",
+    "date": "Oct 21, 2019",
+    "tags": ["flutter", "dart", "provider"],
+    "title": "Flutter Provider: The Essential Guide",
+    "url": "https://codewithandrea.com/videos/flutter-provider-essential-guide/"
+  },
+  {
+    "title": "Flutter Provider: Introduction",
+    "date": "Oct 14, 2019",
+    "tags": ["flutter", "dart", "provider"],
+    "contentType": "video",
+    "url": "https://codewithandrea.com/videos/flutter-provider-introduction/"
+  },
+  {
+    "tags": ["flutter", "dart", "UI-design", "firebase", "CI"],
+    "date": "Oct 7, 2019",
+    "url": "https://codewithandrea.com/videos/design-develop-deliver/",
+    "title": "Design, Develop, Deliver: My Favorite Tools for Building Flutter Apps",
+    "contentType": "video"
+  },
+  {
+    "url": "https://codewithandrea.com/videos/flutter-slivers-overview-sliverlist-slivergrid/",
+    "title": "Flutter Slivers Overview: SliverList, SliverGrid, SliverToBoxAdapter, SliverFillRemaining",
+    "contentType": "video",
+    "tags": ["flutter", "dart", "layouts"],
+    "date": "Sep 30, 2019"
+  },
+  {
+    "url": "https://codewithandrea.com/videos/flutter-slivers-overview-sliverappbar-sliverpersistentheader/",
+    "contentType": "video",
+    "title": "Flutter Slivers Overview: SliverAppBar, SliverPersistentHeader",
+    "date": "Sep 23, 2019",
+    "tags": ["flutter", "dart", "layouts"]
+  },
+  {
+    "title": "Dart Features For Better Code: Spreads, Collection-If, Collection-For",
+    "contentType": "video",
+    "url": "https://codewithandrea.com/videos/dart-features-part2-spreads-collectionif-collectionfor/",
+    "date": "Aug 12, 2019",
+    "tags": ["flutter", "dart"]
+  },
+  {
+    "url": "https://codewithandrea.com/videos/dart-features-part1-types-params/",
+    "tags": ["flutter", "dart"],
+    "title": "Dart Features for Better Code: Types and working with parameters",
+    "contentType": "video",
+    "date": "Jul 22, 2019"
+  },
+  {
+    "url": "https://codewithandrea.com/videos/state-management-setstate-bloc-valuenotifier/",
+    "date": "Jul 9, 2019",
+    "title": "Flutter State Management: setState, BLoC, ValueNotifier, Provider",
+    "contentType": "video",
+    "tags": ["flutter", "dart", "state-management"]
+  },
+  {
+    "tags": ["flutter", "dart", "provider", "firebase", "authentication"],
+    "url": "https://codewithandrea.com/videos/flutter-firebase-auth-service-provider-valuenotifier/",
+    "title": "Flutter & Firebase: Authentication Service with Provider & ValueNotifier",
+    "date": "Jun 18, 2019",
+    "contentType": "video"
+  },
+  {
+    "tags": [
+      "flutter",
+      "dart",
+      "firebase",
+      "authentication",
+      "app-architecture"
+    ],
+    "date": "Jun 17, 2019",
+    "url": "https://codewithandrea.com/articles/designing-an-authentication-service-api/",
+    "title": "Flutter: Designing an Authentication API with Service Classes",
+    "contentType": "article"
+  },
+  {
+    "contentType": "video",
+    "date": "Jun 14, 2019",
+    "title": "Flutter & Firebase: Reference Authentication Demo",
+    "tags": ["flutter", "dart", "firebase", "authentication"],
+    "url": "https://codewithandrea.com/videos/flutter-firebase-reference-demo/"
+  },
+  {
+    "date": "Jun 10, 2019",
+    "contentType": "article",
+    "url": "https://codewithandrea.com/articles/global-access-vs-scoped-access/",
+    "tags": [
+      "flutter",
+      "dart",
+      "dependency-injection",
+      "provider",
+      "firebase",
+      "authentication",
+      "scoped-access"
+    ],
+    "title": "Flutter: Global Access vs Scoped Access with Provider"
+  },
+  {
+    "contentType": "article",
+    "url": "https://codewithandrea.com/articles/simple-authentication-flow-with-flutter/",
+    "date": "Jun 3, 2019",
+    "title": "Super Simple Authentication Flow with Flutter & Firebase",
+    "tags": ["flutter", "dart", "firebase", "authentication"]
+  },
+  {
+    "url": "https://codewithandrea.com/articles/wabs-practical-architecture-flutter-apps/",
+    "title": "Widget-Async-Bloc-Service: A Practical Architecture for Flutter Apps",
+    "date": "May 21, 2019",
+    "contentType": "article",
+    "tags": ["flutter", "dart", "bloc", "state-management"]
+  },
+  {
+    "tags": ["flutter", "dart", "streams", "firebase", "authentication"],
+    "url": "https://codewithandrea.com/videos/flutter-firebase-auth-streams-streambuilder/",
+    "title": "Flutter & Firebase Authentication with Streams and StreamBuilder",
+    "date": "Mar 7, 2019",
+    "contentType": "video"
+  },
+  {
+    "title": "Introduction to Dart - Part 5: Control Flow",
+    "tags": ["flutter", "dart"],
+    "url": "https://codewithandrea.com/videos/intro-to-dart-part5-control-flow/",
+    "date": "Feb 8, 2019",
+    "contentType": "video"
+  },
+  {
+    "title": "Introduction to Dart - Part 4: Collections and Generics",
+    "tags": ["flutter", "dart"],
+    "url": "https://codewithandrea.com/videos/intro-to-dart-part4-collections-generics/",
+    "contentType": "video",
+    "date": "Feb 1, 2019"
+  },
+  {
+    "tags": ["flutter", "dart"],
+    "url": "https://codewithandrea.com/videos/intro-to-dart-part3-classes/",
+    "title": "Introduction to Dart - Part 3: Classes",
+    "date": "Jan 25, 2019",
+    "contentType": "video"
+  },
+  {
+    "tags": ["flutter", "dart"],
+    "contentType": "video",
+    "url": "https://codewithandrea.com/videos/intro-to-dart-part2-functions/",
+    "title": "Introduction to Dart - Part 2: Functions",
+    "date": "Jan 18, 2019"
+  },
+  {
+    "date": "Jan 11, 2019",
+    "contentType": "video",
+    "tags": ["flutter", "dart"],
+    "title": "Introduction to Dart - Part 1: Variables and Types",
+    "url": "https://codewithandrea.com/videos/intro-to-dart-part1-variables-types/"
+  },
+  {
+    "url": "https://codewithandrea.com/meta/my-2018-year-in-review/",
+    "title": "My 2018 year in review with Flutter",
+    "tags": ["business", "content-creation", "flutter", "meta"],
+    "contentType": "meta",
+    "date": "Jan 6, 2019"
+  },
+  {
+    "title": "Dart vs Swift: a comparison",
+    "contentType": "article",
+    "date": "Dec 27, 2018",
+    "tags": ["flutter", "dart", "swift", "ios"],
+    "url": "https://codewithandrea.com/articles/dart-vs-swift-a-comparison/"
+  },
+  {
+    "title": "Flutter will change everything: A Follow Up",
+    "url": "https://codewithandrea.com/articles/flutter-on-ios-a-follow-up/",
+    "tags": ["flutter", "dart", "swift", "ios"],
+    "date": "Dec 12, 2018",
+    "contentType": "article"
+  },
+  {
+    "url": "https://codewithandrea.com/articles/flutter-will-change-everything/",
+    "title": "Flutter will change everything, and is an excellent choice for iOS development",
+    "tags": ["flutter", "dart", "swift", "ios"],
+    "date": "Dec 10, 2018",
+    "contentType": "article"
+  },
+  {
+    "url": "https://codewithandrea.com/videos/flutter-platform-aware-widgets-dialogs/",
+    "contentType": "video",
+    "tags": ["flutter", "dart"],
+    "title": "Flutter: Platform Aware Widgets and Dialogs",
+    "date": "Dec 7, 2018"
+  },
+  {
+    "date": "Dec 3, 2018",
+    "tags": ["flutter", "dart"],
+    "contentType": "article",
+    "url": "https://codewithandrea.com/articles/my-favourite-flutter-resources/",
+    "title": "My Favourite List of Flutter Resources"
+  },
+  {
+    "title": "Flutter: The power of small and reusable widgets",
+    "contentType": "article",
+    "tags": ["flutter", "dart", "layouts", "refactoring"],
+    "date": "Nov 26, 2018",
+    "url": "https://codewithandrea.com/articles/the-power-of-small-reusable-widgets/"
+  },
+  {
+    "date": "Nov 19, 2018",
+    "url": "https://codewithandrea.com/articles/flight-co2-calculator/",
+    "title": "Flutter: Building a Flight CO2 Calculator (Part 1)",
+    "contentType": "article",
+    "tags": ["flutter", "dart"]
+  },
+  {
+    "contentType": "video",
+    "title": "Flutter: Input Validation with RegExp",
+    "tags": ["flutter", "dart", "input-validation"],
+    "date": "Oct 12, 2018",
+    "url": "https://codewithandrea.com/videos/flutter-input-validation-with-regexp/"
+  },
+  {
+    "url": "https://codewithandrea.com/articles/adding-animated-overlays-to-your-app/",
+    "date": "Sep 23, 2018",
+    "contentType": "article",
+    "title": "Flutter: Adding Animated Overlays to Your App",
+    "tags": ["flutter", "dart", "navigation", "layouts"]
+  },
+  {
+    "date": "Sep 13, 2018",
+    "tags": ["flutter", "dart", "navigation", "layouts"],
+    "url": "https://codewithandrea.com/articles/bottom-bar-navigation-with-fab/",
+    "contentType": "article",
+    "title": "Flutter: BottomAppBar Navigation with FAB"
+  },
+  {
+    "tags": ["flutter", "dart", "testing"],
+    "title": "Flutter: Deep Dive with Widget Tests and Mockito",
+    "url": "https://codewithandrea.com/videos/flutter-deep-dive-widget-tests-mockito/",
+    "contentType": "video",
+    "date": "Aug 3, 2018"
+  },
+  {
+    "contentType": "video",
+    "url": "https://codewithandrea.com/videos/flutter-add-unit-tests-to-your-app/",
+    "title": "Flutter: Add Unit Tests to Your App",
+    "date": "Jul 27, 2018",
+    "tags": ["flutter", "dart", "testing"]
+  },
+  {
+    "title": "Flutter: Scoped Access with InheritedWidget",
+    "contentType": "video",
+    "date": "Jul 17, 2018",
+    "tags": ["flutter", "dart", "scoped-access"],
+    "url": "https://codewithandrea.com/videos/flutter-scoped-access-inherited-widget/"
+  },
+  {
+    "tags": ["flutter", "dart", "state-management", "redux", "streams"],
+    "date": "Jun 18, 2018",
+    "contentType": "video",
+    "title": "Flutter State Management: setState, StreamBuilder, Scoped Model, Redux",
+    "url": "https://codewithandrea.com/videos/flutter-state-management-setstate-streambuilder-scopedmodel-redux/"
+  },
+  {
+    "contentType": "video",
+    "tags": ["flutter", "dart", "layouts"],
+    "title": "Flutter Layouts Walkthrough: PageView, ListView, GridView, Slivers, CustomScrollView",
+    "date": "Jun 9, 2018",
+    "url": "https://codewithandrea.com/videos/flutter-layouts-walkthrough-part2-scrollable-widgets/"
+  },
+  {
+    "tags": ["flutter", "dart", "productivity"],
+    "contentType": "article",
+    "date": "Jun 2, 2018",
+    "url": "https://codewithandrea.com/articles/intellij-keyboard-shortcuts-flutter-development/",
+    "title": "IntelliJ / Android Studio Shortcuts for Flutter Development"
+  },
+  {
+    "tags": ["flutter", "dart", "layouts"],
+    "url": "https://codewithandrea.com/videos/flutter-layouts-walkthrough-part1-row-column-stack-expanded-padding/",
+    "title": "Flutter Layouts Walkthrough: Row, Column, Stack, Expanded, Padding",
+    "date": "May 26, 2018",
+    "contentType": "video"
+  },
+  {
+    "title": "Flutter & RoboHash 03 - Add an avatar to your app",
+    "contentType": "video",
+    "url": "https://codewithandrea.com/videos/flutter-robohash-add-avatar-part3/",
+    "tags": ["flutter", "dart"],
+    "date": "May 19, 2018"
+  },
+  {
+    "contentType": "video",
+    "title": "Flutter & RoboHash 02 - Add an avatar to your app",
+    "url": "https://codewithandrea.com/videos/flutter-robohash-add-avatar-part2/",
+    "date": "May 19, 2018",
+    "tags": ["flutter", "dart"]
+  },
+  {
+    "title": "Flutter & RoboHash 01 - Add an avatar to your app",
+    "tags": ["flutter", "dart"],
+    "url": "https://codewithandrea.com/videos/flutter-robohash-add-avatar-part1/",
+    "date": "May 19, 2018",
+    "contentType": "video"
+  },
+  {
+    "tags": ["flutter", "dart", "firebase", "authentication"],
+    "contentType": "video",
+    "url": "https://codewithandrea.com/videos/flutter-firebase-auth-part6/",
+    "date": "Apr 28, 2018",
+    "title": "Flutter & Firebase Auth 06 - Home page + Sign out + Complete and review sign in flow"
+  },
+  {
+    "contentType": "video",
+    "tags": ["flutter", "dart", "firebase", "authentication"],
+    "title": "Flutter & Firebase Auth 05 - Switch between login & home page + State initialization",
+    "date": "Apr 28, 2018",
+    "url": "https://codewithandrea.com/videos/flutter-firebase-auth-part5/"
+  },
+  {
+    "date": "Apr 28, 2018",
+    "title": "Flutter & Firebase Auth 04 - Overview of root & home page + Refactor Firebase authentication code",
+    "contentType": "video",
+    "url": "https://codewithandrea.com/videos/flutter-firebase-auth-part4/",
+    "tags": ["flutter", "dart", "firebase", "authentication"]
+  },
+  {
+    "contentType": "article",
+    "url": "https://codewithandrea.com/articles/platform-channels-flutter/",
+    "title": "Intro to Platform Channels: Building an Image Picker in Flutter",
+    "tags": ["flutter", "dart", "platform-channels", "ios", "swift"],
+    "date": "Apr 26, 2018"
+  },
+  {
+    "tags": ["flutter", "dart", "firebase", "authentication"],
+    "date": "Apr 22, 2018",
+    "url": "https://codewithandrea.com/videos/flutter-firebase-auth-part3/",
+    "title": "Flutter & Firebase Auth 03 - Add Firebase registration form + State management",
+    "contentType": "video"
+  },
+  {
+    "url": "https://codewithandrea.com/videos/flutter-firebase-auth-part2/",
+    "contentType": "video",
+    "title": "Flutter & Firebase Auth 02 - Create, validate and save a login form + Firebase iOS auth integration",
+    "tags": ["flutter", "dart", "firebase", "authentication"],
+    "date": "Apr 22, 2018"
+  },
+  {
+    "url": "https://codewithandrea.com/videos/flutter-firebase-auth-part1/",
+    "date": "Apr 21, 2018",
+    "contentType": "video",
+    "title": "Flutter & Firebase Auth 01 - Intro + Create a new app + Stateless & stateful widgets",
+    "tags": ["flutter", "dart", "firebase", "authentication"]
+  },
+  {
+    "tags": ["flutter", "dart", "testing"],
+    "date": "Apr 8, 2018",
+    "contentType": "article",
+    "title": "Take your Flutter tests to the next level with abstract classes and dependency injection",
+    "url": "https://codewithandrea.com/articles/testing-flutter-apps/"
+  },
+  {
+    "date": "Mar 18, 2018",
+    "url": "https://codewithandrea.com/articles/how-fast-is-flutter/",
+    "contentType": "article",
+    "tags": ["flutter", "dart", "performance"],
+    "title": "How fast is Flutter? I built a stopwatch app to find out"
+  }
+]
